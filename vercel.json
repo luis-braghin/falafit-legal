@@ -1,6 +1,11 @@
 {
   "rewrites": [
     { "source": "/privacidade", "destination": "/privacidade.html" },
-    { "source": "/termos", "destination": "/termos.html" }
+    { "source": "/termos", "destination": "/termos.html" },
+    { "source": "/privacy-policy", "destination": "/privacidade.html" },
+    { "source": "/privacy", "destination": "/privacidade.html" },
+    { "source": "/terms", "destination": "/termos.html" },
+    { "source": "/terms-of-service", "destination": "/termos.html" },
+    { "source": "/exclusao-de-conta", "destination": "/exclusao-de-conta.html" }
   ]
 }
